@@ -1,6 +1,7 @@
 export const Formats: FormatList = [
 	{
 		name: "[Gen 8] National Dex RU",
+		section: "National Dex",
 		threads: [
 			`&bullet; <a href="https://discord.gg/CrQ5Sx7zVC">National Dex RU Metagame Discussion</a>`,
 			`&bullet; <a href="https://docs.google.com/document/d/1RiLRzkWPwpM3ssWAPk1qNPR04gP-klR_6dEAZJq5m6Y/edit?usp=sharing">National Dex RU Viability Rankings</a>`,
